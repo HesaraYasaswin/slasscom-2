@@ -50,7 +50,7 @@ class Challenge3
         System.out.println("mode = " + mode);
     }
     
-	public static double Median(int a[], int n)
+    public static double Median(int a[], int n)
     {
         
         if (n % 2 != 0)
